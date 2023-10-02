@@ -18,7 +18,7 @@ Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com<br>
 Week 4 - 🚢 Build Your Own Project<br>
 <br>
 <br>
-## Week 1 - 👩‍🔬 Becoming A Power User
+Week 1 - 👩‍🔬 Becoming A Power User
 
 The first step to starting as a developer in the web3 ecosystem is first to become a Power User!
 
@@ -26,7 +26,7 @@ You should start by getting hands-on & using the tools which will give you a muc
 
 
 <br>
-## Week 2 - 👩‍🚀 Scripting and Smart Contracts
+Week 2 - 👩‍🚀 Scripting and Smart Contracts
 
 In this section, we'll start programming!
 
@@ -34,7 +34,7 @@ It goes from writing scripts, talking to the blockchain, and building Decentrali
 
 
 <br>
-## Week 3 - 🧙‍♀️ Building Decentralized Apps
+Week 3 - 🧙‍♀️ Building Decentralized Apps
 
 In this section, we'll be going through SpeedRunEthereum!
 
@@ -42,7 +42,7 @@ SpeedRunEthereum is a set of challenges for developers to get building with Ethe
 
 
 <br>
-## Week 4 - 🚢 Build Your Own Project
+Week 4 - 🚢 Build Your Own Project
 
 Now it's your turn to create your project!
 
