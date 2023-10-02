@@ -1,47 +1,48 @@
 # SpeedRunEtereum curriculum
 !!! ALL ACCOUNTS USED ARE BURNER ACCOUNTS !!!
-
-
-WWW : https://speedrunethereum.com
-Repo : https://github.com/austintgriffith/web2-to-web3-curriculum
+<br>
+<br>
+WWW : https://speedrunethereum.com <br>
+Repo : https://github.com/austintgriffith/web2-to-web3-curriculum<br>
 YouTube : https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69
+<br>
+<br>
+## 👩‍💻 Web2 to Web3 🚀
 
-##👩‍💻 Web2 to Web3 🚀
-
-🖍 A curated, free, and open-source curriculum for Ethereum developers 🏅
-What to expect:
-Week 1 - 👩‍🔬 Becoming A Power User
-Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity
-Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com
-Week 4 - 🚢 Build Your Own Project
-
-
-
-##Week 1 - 👩‍🔬 Becoming A Power User
+🖍 A curated, free, and open-source curriculum for Ethereum developers 🏅<br>
+What to expect:<br>
+<br>
+Week 1 - 👩‍🔬 Becoming A Power User<br>
+Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity<br>
+Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com<br>
+Week 4 - 🚢 Build Your Own Project<br>
+<br>
+<br>
+## Week 1 - 👩‍🔬 Becoming A Power User
 
 The first step to starting as a developer in the web3 ecosystem is first to become a Power User!
 
 You should start by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about. In this section, we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user.
 
 
-
-##Week 2 - 👩‍🚀 Scripting and Smart Contracts
+<br>
+## Week 2 - 👩‍🚀 Scripting and Smart Contracts
 
 In this section, we'll start programming!
 
 It goes from writing scripts, talking to the blockchain, and building Decentralized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more!
 
 
-
-##Week 3 - 🧙‍♀️ Building Decentralized Apps
+<br>
+## Week 3 - 🧙‍♀️ Building Decentralized Apps
 
 In this section, we'll be going through SpeedRunEthereum!
 
 SpeedRunEthereum is a set of challenges for developers to get building with Ethereum. It's not only about learning the syntax but also understanding what's possible with Ethereum. It's also a great way to build your web3 portfolio. You'll be writing code and deploying your smart contracts.
 
 
-
-##Week 4 - 🚢 Build Your Own Project
+<br>
+## Week 4 - 🚢 Build Your Own Project
 
 Now it's your turn to create your project!
 
