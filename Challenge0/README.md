@@ -4,5 +4,7 @@
 
 🌟 The final deliverable is an app that lets users purchase and transfer NFTs. Deploy your contracts to a testnet, then build and upload your app to a public web server. 
 
+
 YourCollectible Contract @ 0x653Bc4297639f02859B4Fb03F77AaA625Bc5E814
+
 Preview @: https://nextjs-r458f7jzp-jimmy-john.vercel.app/myNFTs
