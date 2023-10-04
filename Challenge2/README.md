@@ -15,4 +15,4 @@ Token Contract @ sepolia: 0x6f570d925f11C2511D7E53C15da8c279aCB99201
 
 Vendor Contract @ sepolia: 0xbcBaAF107717030B4201507a6E887566C02847D9
 
-Preview @: https://nextjs-astronaut828-jimmy-john.vercel.app
+Preview @: https://nextjs-p71gkvkz6-jimmy-john.vercel.app
