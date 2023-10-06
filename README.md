@@ -6,6 +6,7 @@ WWW : https://speedrunethereum.com <br>
 Repo : https://github.com/austintgriffith/web2-to-web3-curriculum<br>
 YouTube : https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69
 <br>
+< BuidlGuidl > Portfolio @ https://app.buidlguidl.com/builders/0x50886D884b848FaA1080C439D05048125C45A7Dd
 <br>
 ## 👩‍💻 Web2 to Web3 🚀
 
@@ -40,8 +41,6 @@ In this section, we'll be going through SpeedRunEthereum!
 
 SpeedRunEthereum is a set of challenges for developers to get building with Ethereum. It's not only about learning the syntax but also understanding what's possible with Ethereum. It's also a great way to build your web3 portfolio. You'll be writing code and deploying your smart contracts.
 
-Portfolio @ https://speedrunethereum.com/builders/0x50886D884b848FaA1080C439D05048125C45A7Dd
-
 <br>
 Week 4 - 🚢 Build Your Own Project
 
@@ -50,6 +49,3 @@ Now it's your turn to create your project!
 It's all about building forkable components with Scaffold-ETH. You can make a new voting system component, work on the open issues, make a new challenge for SpeedRunEthereum, etc. Make sure to have a well-written README so anyone can easily set it up. Then, create your project & upload it to your BuidlGuidl Profile!
 
 There's a lot you can build & collaborate with other builders in the ecosystem! That's where BuildGuild comes in! BuidlGuidl is a group of builders that build tools with Scaffold-ETH, meet and learn together, and get funded for contributing. The goal is to empower builders to create prototypes, projects and resources for the Ethereum ecosystem. 🌟 After building forkable Scaffold-ETH components, submitting them to your builder profile, and being active in the BuidlGuidl Telegram groups, you can get the opportunity to join BuidlGuidl!
-
-
-< BuidlGuidl > Portfolio @ https://app.buidlguidl.com/builders/0x50886D884b848FaA1080C439D05048125C45A7Dd
