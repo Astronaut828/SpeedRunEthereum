@@ -2,6 +2,10 @@
 
 A curated, free, and open-source curriculum for Ethereum developers.
 
+## BuidlGuidl Portfolio
+
+Portfolio: [quizford.eth](https://app.buidlguidl.com/builders/0x992AB820a2776Ff79284B9844D338B5C5fc792e9)
+
 ## Challenges
 
 Challenge 0: Simple NFT Example - [dApp preview](https://nextjs-r458f7jzp-jimmy-john.vercel.app/myNFTs)
@@ -16,10 +20,6 @@ Challenge 4: Build a DEX - [dApp preview](https://nextjs-gbl7i4u6q-jimmy-john.ve
 
 Challenge 5: State Channel Application - [dApp preview](https://nextjs-4wfiuvp0g-jimmy-john.vercel.app)
 
-
-## BuidlGuidl Portfolio
-
-Portfolio: [quizford.eth](https://app.buidlguidl.com/builders/0x992AB820a2776Ff79284B9844D338B5C5fc792e9)
 
 ## Curriculum Information
 
